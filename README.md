@@ -38,7 +38,7 @@ Steps carried out by R script for comaprison algorithim
 
 
 The R script "main.R" takes about 10 minutes to run. It then generates a .xlsx file showing all the matched pairs and
-their corresponding score. The "run_reults_summary.xlsx" file shows the number of matched pairs, total score, median and mean of 
+their corresponding score. The "run_results_summary.xlsx" file shows the number of matched pairs, total score, median and mean of 
 15 different runs of the "main.R" script.
 
 
