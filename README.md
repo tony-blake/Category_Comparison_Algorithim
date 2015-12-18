@@ -11,7 +11,7 @@ An identical individual pair worth 10 points and the maximum score you can get i
 penalty of 5 points per individual.Include a code to generate this dataset and some plot showing the scoring distribution of your code 
 for multiple datasets.
 
-Steps carried out by R script for comaprison algorithim
+Steps carried out by R script for comparison algorithim
 
 1. generates dataframe 
 
