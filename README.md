@@ -1,7 +1,7 @@
 # Category_Comparison_Algorithim
 
-This little algorithim finds pairs of individuals from a dataframe (generated from the main file) and comapres then according to a
-scoring system.  The algorithim itself came about as my solution to the following question
+This little algorithim finds pairs of individuals from a dataframe (generated from the main file) and compares then according to a
+scoring system.  The algorithim itself came about as my solution to the following question.
 
 Assume a cohort of 1000 individuals with ages range from 20 to 40, M/F gender, and 8 chromosomes that may be of African/Asian/European 
 ancestry (e.g., 25-M-Af-Eu-Af-As-Eu-Eu-As-As). Your goal is to develop a Matlab/R code that will optimize pairing of the most similar
