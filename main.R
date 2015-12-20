@@ -1,4 +1,4 @@
-#Correct version of Exercise Problem for Research Position with Sheffield Bioinformatics Group
+# algorithim for pairing indivuduals from generated data based on simliarity of chromosomes
 # Created by Tony Blake
 # 14/12/15
 
