@@ -1,4 +1,4 @@
-# algorithim for pairing indivuduals from generated data based on simliarity of chromosomes
+# algorithim for pairing individuals from generated data based on similarity of chromosomes
 # Created by Tony Blake
 # 14/12/15
 
